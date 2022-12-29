@@ -1,4 +1,7 @@
-a
-mayur
-harish
-vishal
+
+=======
+aws
+devops
+git
+ansible
+>>>>>>> master
