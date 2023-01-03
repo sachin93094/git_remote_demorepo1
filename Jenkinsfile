@@ -16,7 +16,7 @@ agent {
 				
 		stage('checking status') {
 			steps {
-				echo 'git repo cloned'
+				echo 'git status'
 				}
 			}
 		}
